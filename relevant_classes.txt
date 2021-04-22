@@ -1,0 +1,10 @@
+Chihuahua, 151
+Shih-Tzu, 156
+beagle, 162
+golden retriever, 207
+Labrador retriever, 208
+Border collie, 232
+pug, 254
+Samoyed, 258
+Pomeranian, 259
+toy poodle, 265
